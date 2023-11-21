@@ -1,0 +1,2 @@
+Prefix plugins/GPUStreamVectorAdd/example
+Plugin GPUStreamVectorAdd inputfile parameters.txt outputfile vectoradd.stream.raw
